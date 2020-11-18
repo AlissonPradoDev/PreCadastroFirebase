@@ -1,0 +1,13 @@
+{
+    "name": "vendor/eazy-precadastro",
+    "description": "Description of project eazy_precadastro.",
+    "authors": [
+        {
+            "name": "alissonprado",
+            "email": "your@email.here"
+        }
+    ],
+    "require-dev": {
+        "kreait/firebase-php": "5.x-dev"
+    }
+}
